@@ -103,6 +103,8 @@
   <ItemGroup>
     <Compile Include="KiSSXSSMP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SkinLoaderPatcher.cs" />
+    <Compile Include="SkinManagerPatcher.cs" />
     <Compile Include="ssmp_patches\SSMP.Game.Client.Skin.PlayerSkin.cs" />
     <Compile Include="ssmp_patches\SSMP.Game.Client.Skin.SkinLoader.cs" />
   </ItemGroup>
