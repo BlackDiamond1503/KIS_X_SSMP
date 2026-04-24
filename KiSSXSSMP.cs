@@ -37,7 +37,7 @@ public class KiSSxSSMP : BaseUnityPlugin
 
     private void Awake()
     {
-        Logger.LogInfo("Knigh in SilkSong X SilkSongMultiPlayer loaded");
+        Logger.LogInfo("Knight in SilkSong X SilkSongMultiPlayer loaded");
 
         // Attempt initial patch. If SSMP assembly is not loaded yet, subscribe to AssemblyLoad and retry.
         TryPatchSSMP();

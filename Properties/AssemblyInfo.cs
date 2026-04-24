@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("KIS_X_SSMP")]
-[assembly: AssemblyCopyright("Copyright © Hunter versus Speedrunner 2026")]
+[assembly: AssemblyCopyright("Copyright © Hunter Versus Speedrunner 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
