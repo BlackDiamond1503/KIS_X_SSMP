@@ -110,5 +110,8 @@
     <Folder Include="SSMP\Game\Client\Skin\" />
     <Folder Include="tools\ssmp_patcher\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
